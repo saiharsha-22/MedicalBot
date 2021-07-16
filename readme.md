@@ -26,8 +26,7 @@ python test.py
   - data
      - english
          - yaml files(for testing the data)
- - Devstarer.md
- - Devstarer.pptx
+ - Readme.md
 ### working
 1. After downloading the required librabries, try to run the script.
 2. when you run the script you can see the GUI of the chat-bot which is made up of tkinter.
